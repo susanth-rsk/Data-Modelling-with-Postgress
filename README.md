@@ -1,3 +1,5 @@
+# Data Modelling with Postgress
+
 #### Introduction and Motivation
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. The created architechture should serve the purpose of serving queries raised by Sparkify's analytics team.
 
